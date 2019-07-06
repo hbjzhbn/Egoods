@@ -3,5 +3,6 @@ public class Hello{
 		System.out.println("Hello Git");
 		System.out.println("Hello Git");
 		System.out.println("Hello Git");
+		System.out.println("你好，世界");
 	}
 }
