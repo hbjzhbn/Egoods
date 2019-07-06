@@ -4,5 +4,6 @@ public class Hello{
 		System.out.println("Hello Git");
 		System.out.println("Hello Git");
 		System.out.println("你好，世界");
+		System.out.println(new java.Util.Date());
 	}
 }
